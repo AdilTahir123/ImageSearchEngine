@@ -1,4 +1,4 @@
-````md
+
 # 🖼️ Image Search Engine
 
 A simple image search engine built using HTML, CSS, JavaScript, and the Unsplash API.
@@ -36,7 +36,6 @@ image-search-engine/
 ├── style.css
 ├── script.js
 └── README.md
-````
 
 ## ⚙️ How to Use
 
