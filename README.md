@@ -30,7 +30,6 @@ The application takes a user's search query and fetches relevant images from the
 
 ## 📁 File Structure
 
-```text
 image-search-engine/
 ├── index.html
 ├── style.css
