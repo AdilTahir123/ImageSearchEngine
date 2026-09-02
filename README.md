@@ -5,7 +5,7 @@ A simple image search engine built using HTML, CSS, JavaScript, and the Unsplash
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://image-search-engine-vert-kappa.vercel.app/)
+[View Live Demo](https://image-search-engine-wfkm.vercel.app/)
 
 ## ✨ Features
 
